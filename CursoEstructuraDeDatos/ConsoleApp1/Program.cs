@@ -1,4 +1,10 @@
-﻿// PRIIMER PROYECTO DE CONSOLA
-Console.WriteLine("Este es el curso de Estructura de Datos");
+﻿// Programa que sume los n primeros numeros
 
-Console.WriteLine("UNSCH 2024");
+var n = 10;
+var suma = 0;
+
+for (var i = 1; i <= n; i++)
+{
+    suma += i;
+}
+Console.WriteLine("El resultado es: " + suma.ToString());
