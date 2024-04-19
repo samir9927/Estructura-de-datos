@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// PRIIMER PROYECTO DE CONSOLA
+Console.WriteLine("Este es el curso de Estructura de Datos");
+
+Console.WriteLine("UNSCH 2024");
