@@ -1,4 +1,6 @@
-﻿Console.WriteLine("Ingrese la base del triángulo:");
+﻿//3)	Pide la base y la altura de un triángulo al usuario y calcula su área.
+
+Console.WriteLine("Ingrese la base del triángulo:");
 double baseTriangulo = Convert.ToDouble(Console.ReadLine());
 
 // Solicitar la altura del triángulo al usuario
